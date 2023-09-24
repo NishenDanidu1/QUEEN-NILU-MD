@@ -14,28 +14,28 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;d7QFnJpb#_pd-wJJMTd2mLTiujTm9qjiPHwQpK2ovFd3nL2Vj5dQ' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://nishen_user:z5zulQiTPpmCAjjxdqGKnCShKJYenTsX@dpg-ck80sf7sasqs73ck7pr0-a.frankfurt-postgres.render.com/nishen'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94758172239'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Nishen'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = '*YOU CAN MASSAGE NISHEN ONLY can"t you nishen"s bot*😊' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
-global.OPENAI_API_KEY = "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" 
+global.OPENAI_API_KEY = "None" 
 
 /*
 ⚙️ BOT  SETTINGS  ⚙️
@@ -45,7 +45,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Nishen🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
@@ -89,7 +89,7 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: https://youtube.com/@SLmoviesandmusicTV?si=YEzz_D05FH406biN" //ur yt chanel name
+global.socialm = "GitHub: Nishendanidu1" //ur github or insta name
+global.location = "Srilanka, Hambantota" //ur location
 
