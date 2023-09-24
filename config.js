@@ -29,7 +29,7 @@ global.OWNER_NAME = 'Nishen'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '*YOU CAN MASSAGE NISHEN ONLY can"t you nishen"s bot*😊' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = '*YOU CAN MASSAGE NISHEN ONLY can"t you nishen"s bot*' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
@@ -57,9 +57,9 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = 'alive now' // Set Alive Message
 
-global.MAX_SIZE = '400' // Bot Uloading Max size 
+global.MAX_SIZE = '890' // Bot Uloading Max size 
 
 global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
@@ -91,5 +91,5 @@ global.VOICE_REPLY = true
 
 global.ytname = "YT: https://youtube.com/@SLmoviesandmusicTV?si=YEzz_D05FH406biN" //ur yt chanel name
 global.socialm = "GitHub: Nishendanidu1" //ur github or insta name
-global.location = "Srilanka, Hambantota" //ur location
+global.location = "Srilanka, colombo" //ur location
 
